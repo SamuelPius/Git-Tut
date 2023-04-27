@@ -1,1 +1,2 @@
 This is my first day to a self Transformation Challenge
+Learning Git stages
