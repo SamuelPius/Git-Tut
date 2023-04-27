@@ -4,3 +4,4 @@ After using git add command to the new file, we move it to the staging area
 Once i have made change to the file after moving it to the staging area, it exists both in the Staging area and the modified area under the Working Area
 Here we have two situatins; one being we can either roll back to the previous version of the file which was stage using the git restore command or use the git add command to the file to move it to the staging area too for commiting.
 if you want to remove a staged file we can use the git rm --cached <filename> command where it will be removed from the staging area however will exists in our local directory. However, if we want to remove the file permanentely we can use the command git rm -f <filename>.
+remove this line from the file
